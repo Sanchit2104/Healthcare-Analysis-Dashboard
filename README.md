@@ -1,5 +1,7 @@
 # Healthcare Summary Report
 The report aims to analyze patient health metrics to identify trends related to diabetes, blood pressure, and BMI.
+
+
 ![Screenshot (23)](https://github.com/user-attachments/assets/9e95b11e-3a77-4033-959c-86fad7eb1f33)
 
 # 2. Diabetic vs. Non-Diabetic Patients (Top Left Section)
